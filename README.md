@@ -1,6 +1,7 @@
 # Desafio Inmetrics
 
-Objetivo - Avaliar as competências do candidato no entendimento e escrita de Cenários e na construção de testes automatizados,
+Objetivo
+Avaliar as competências do candidato no entendimento e escrita de Cenários e na construção de testes automatizados,
 bem como no uso de boas práticas.
 
 Configuração do ambiente: Para executar os testes são necessários os seguintes requisitos:
