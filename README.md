@@ -23,7 +23,15 @@ Para executar os testes são necessários os seguintes requisitos:
     Testebase - Classe responsável por criar e gerenciar as instnacias do driver, padrão utilizando Factory.
   - Pacote Runner - Pacote responsável por executar as classes de teste .features;
   - Pacote Steps - Pacote responsável por fazer o encapuslamento entre os passos criados no pacote feature e os metódos criados nos Page Object's;
-  - 
+  - Pasta Target - Nela está alocada o relatório de execução dos testes.
+  
+  
+ Executando a suite de teste
+ 
+ Para executar a suite de teste, basta clicar com o botão direito no arquivo Runner.java > Run As > Junit Teste.
+ Feito isso será executado todos os testes da suite. Caso não deseje executar todos os testes, basta descomentar a "tags" e selecionar os testes que deseja executar dividos pelas tags : @funcionario, @login, @cadastro.
+ 
+  
   
 
 
