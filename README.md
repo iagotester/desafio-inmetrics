@@ -4,7 +4,8 @@ Objetivo
 Avaliar as competências do candidato no entendimento e escrita de Cenários e na construção de testes automatizados,
 bem como no uso de boas práticas.
 
-Configuração do ambiente: Para executar os testes são necessários os seguintes requisitos:
+Configuração do ambiente - 
+Para executar os testes são necessários os seguintes requisitos:
  Ter instando o plugin do Cucumber no marketplace do eclipse
  Ter instalado no projeto as seguintes dependências: 
  - cucumber-java versão 1.2.5
@@ -13,7 +14,8 @@ Configuração do ambiente: Para executar os testes são necessários os seguint
  - selenium-java versão 3.141.59
  - Junit 4 
  
- Estrutura do projeto: O projeto está estruturado da seguinte forma:
+ Estrutura do projeto
+ O projeto está estruturado da seguinte forma:
  - Pacote Config :  Responsável por guardar alguns configurações básicas do projeto tais como : url, browser.
  - Pacote feature:  Responsável por gerar a estrutura dos testes propriamente ditas.
  - Pacote Pages:     Pacote onde estão alocadas todas as Page Objects utilizadas no projeto;
